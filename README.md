@@ -1,2 +1,2 @@
 # cricketstats
-Project for Basic Understanding of Routing, Vuex using Tabular components 
+Project for Basic Understanding of Routing, using Oruga components 
